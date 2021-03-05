@@ -1,0 +1,8 @@
+.trans {
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.trans:hover {
+    transform: scale(1.03);
+}
